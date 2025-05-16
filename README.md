@@ -237,7 +237,7 @@ Ensure you have the following installed:
 ### **2. Clone the Repository**
 
 ```bash
-git clone https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack.git
+git clone https://github.com/MeAkash77/ToDo-App-NextJS-Fullstack.git
 cd ToDo-App-NextJS-Fullstack
 ```
 
@@ -313,7 +313,7 @@ The production build will be served at `http://localhost:3000`.
 
 3. **Manage To-Dos**: Access the main to-do list page (`/`) where you can add, edit, and delete to-dos, as well as toggle dark mode.
 
-Alternatively, you can directly access the deployed application at [https://todo-app-nextjs-stack.vercel.app/](https://todo-app-nextjs-stack.vercel.app/).
+Alternatively, you can directly access the deployed application at [https://to-do-app-next-js-fullstack-five.vercel.app/](https://to-do-app-next-js-fullstack-five.vercel.app/).
 
 ## 📝 **Swagger API Documentation**
 
@@ -421,10 +421,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## 📝 **License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## 📧 **Contact**
-
-For any inquiries or feedback, feel free to reach out to the author at `hoangson091104@gmail.com`.
 
 Enjoy using the **ToDo-App-Fullstack-NextJS**! 🎉
 
